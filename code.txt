@@ -4,3 +4,12 @@ recipe
 1) Jumbalaya
 2) Add Cheese
 3) Add Flour and Ginger
+
+
+
+Soup
+
+1) Add Water
+2) Add Sat
+3) Add Meat
+4)Cook
