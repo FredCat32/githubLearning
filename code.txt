@@ -1,6 +1,8 @@
 recipe
 
 
-1) Jumbalaya
-2) Add Cheese
-3) Add Flour and Ginger
+1) Flour
+2) Eggs
+3) Butter
+4) Put in Oven
+5) Wait 20 Min
