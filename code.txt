@@ -2,8 +2,9 @@ recipe
 
 
 1) Jumbalaya
-2) Add Cheese
-3) Add Flour and Ginger
+2) Add Flour and Ginger
+3) Add Cheese and water
+
 
 
 
